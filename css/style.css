@@ -1,1 +1,25 @@
 
+.navbar-nav {
+margin-left: auto;
+margin-right: 0 !important;
+}
+
+.jumbotronBackground {
+background-image: linear-gradient(whitesmoke, #5B3D3D);
+height: calc(100vh - 40px);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.jumbotronCopy {
+  text-align: center;
+
+}
+
+.Jumbocard img {
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    border-radius: 8px;
+}
