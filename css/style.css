@@ -35,16 +35,31 @@ justify-content: center;
     text-align: center;
 }
 
+.colour {
+    background-image: url('../images/background6.avif');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    border-radius: 50px;
+}
 .skills {
     padding-top: 50px;
     text-align: center;
+    line-height: 3;
 }
 
 .skills h2 {
     font: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 5em;
-    color: hotpink;
+    font-size: 4em;
+    color: whitesmoke;
+}
+
+.skills ul {
+    list-style-type: none;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+
 }
 
 .five {
@@ -52,7 +67,12 @@ justify-content: center;
     text-align: center;
 }
 
-.AB {
+.five h2 {
+    font: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.AM {
     line-height: 1.8;
 }
 
