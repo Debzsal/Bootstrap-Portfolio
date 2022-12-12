@@ -33,3 +33,14 @@ justify-content: center;
 .card-body {
     text-align: center;
 }
+
+.skills {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.skills h2 {
+    font: bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:xx-large;
+}
