@@ -9,8 +9,8 @@ The motivation for this project was to showcase the various projects that I have
 The project can be used by clicking on the project URL in order to access and navigate through the portfolio website by using the navbar. The website is also responsive to different screen orientations.
 
 ```md
-![Screenshot 1](images/Screen-Shot-2022-12-12-at-22.40.56.png)
-![Screenshot 2](images/Screen-Shot-2022-12-12-at-22.53.09.png)
+![Screenshot 1](images/Screen Shot 2022-12-12 at 22.40.56 (2).png);
+![Screenshot 2](images/Screen Shot 2022-12-12 at 22.53.09 (2).png);
 ```
 
 ## Credits
