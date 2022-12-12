@@ -44,3 +44,19 @@ justify-content: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size:xx-large;
 }
+
+.five {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.AB {
+    line-height: 1.8;
+}
+
+.contacts ul {
+    line-height: 1.8;
+    list-style-type: none;
+    
+}
+
