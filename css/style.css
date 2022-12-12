@@ -60,3 +60,16 @@ justify-content: center;
     
 }
 
+.footer {
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
+padding-top:100px;
+
+}
+
+.last {
+    text-align: center;
+    color: gray;
+}
+
